@@ -1,0 +1,12 @@
+import React from 'react'
+import Portfolio from './portfolio.jsx' // या Portfolio.jsx
+
+function App() {
+  return (
+    <div className="App">
+      <Portfolio />
+    </div>
+  )
+}
+
+export default App 
